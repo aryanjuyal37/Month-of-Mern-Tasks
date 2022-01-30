@@ -1,0 +1,37 @@
+.center{
+    text-align: center;
+  }
+
+  .container {
+    display:flex;
+    justify-content:space-evenly;
+    width:50%;
+    margin-left:25%;
+    padding:30px 0;
+  }
+
+  .circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+
+  .red {
+    background-color: red;
+  }
+  .blue {
+    background-color: blue;
+  }
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .violet {
+    background-color: violet;
+  }
+  .green {
+    background-color: green;
+  }
+  .orange {
+    background-color: orange;
+  }
